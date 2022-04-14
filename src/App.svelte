@@ -83,12 +83,11 @@
     font-weight: 700;
     font-size: 1.75rem;
     line-height: 2rem;
-    margin-bottom: 1rem;
   }
   .main-content__text {
     color: var(--color-white-paragraphs);
     line-height: 1.5625rem;
-    margin: 1.5625rem 0 4.5rem;
+    margin: 1.1rem 0 2rem;
   }
 
   .main-content__title--violet {
@@ -136,6 +135,7 @@
       text-align: left;
       padding: 4.4375rem 5.9375rem 3.6875rem 4.5rem;
       border-radius: 0.5rem 0 0 0.5rem;
+      align-items: start;
     }
     .main-content__title {
       min-width: 18ch;
@@ -145,6 +145,7 @@
     }
     .main-content__text {
       max-width: 40ch;
+      margin: 1.1rem 0 3rem;
     }
     .cards {
       grid-auto-flow: column;
