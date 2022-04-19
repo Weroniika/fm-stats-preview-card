@@ -35,7 +35,6 @@
     border-radius: 0.5rem 0.5rem 0 0;
     width: 100%;
     height: 100%;
-    min-width: 20.4375rem;
     object-fit: cover;
   }
 
@@ -45,7 +44,6 @@
     }
 
     .main-image__img {
-      min-width: 33.75rem;
       border-radius: 0 0.5rem 0.5rem 0;
     }
   }
